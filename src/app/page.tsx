@@ -13,7 +13,7 @@ export default function Home() {
           }}
           href="https://open.spotify.com/playlist/1pPLLyWGAPTCxTTRC02zAV?si=a82d0623b07c4aa4&pt=5fbe432e9ed1aea92de4d2b07afad2cb"
         >
-          Link --> playlist clika
+          Link --{'>'} playlist clika
         </Link>
       </div>
     </main>
